@@ -1,12 +1,8 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# alex Rapp
+## lab 4
+## 10/01/2024
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+lecture notes/ slides
+Dyllan Gates
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+I really overcomplicated the first part and succeeded upon recieving a pointer in the correct direction
